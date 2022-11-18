@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33ac3b6-2d10-4f8c-b394-bdbd35d09df1" name="Changes" comment="initial message">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/Canvas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/TestCSS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/img/Wideo1.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/Embed.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Embed.html" afterDir="false" />
     </list>
@@ -13,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -34,15 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\1 TP\Gleb Sinkevich\IMG\HTML" />
@@ -76,7 +83,8 @@
       <workItem from="1667894163482" duration="3487000" />
       <workItem from="1667901359652" duration="4761000" />
       <workItem from="1668498970997" duration="680000" />
-      <workItem from="1668509622095" duration="1614000" />
+      <workItem from="1668509622095" duration="3867000" />
+      <workItem from="1668763037045" duration="2249000" />
     </task>
     <task id="LOCAL-00001" summary="initial message">
       <created>1667897591082</created>
@@ -92,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668509830487</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial message">
+      <created>1668511340940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668511340940</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
